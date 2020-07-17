@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notepad</string>
+    <string name="connect">connect</string>
+    <string name="slogan">Tecnologia e Soluções</string>
+    <string name="hintitle">titulo da sua etiqueta</string>
+    <string name="hindesc">Descreva seu compromisso.</string>
+</resources>
